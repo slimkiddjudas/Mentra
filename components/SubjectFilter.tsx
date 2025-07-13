@@ -18,7 +18,7 @@ const SubjectFilter = () => {
     const searchParams = useSearchParams();
     const query = searchParams.get("subject") || "";
 
-    const [subject, setSubject] = useState(query);
+    const [subject, setSubject] = useState(query || "all");
 
     useEffect(() => {
         let newUrl = "";
