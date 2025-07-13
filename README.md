@@ -6,8 +6,6 @@
 
 Mentra is an advanced SaaS platform that revolutionizes personalized learning through AI-powered companions. Build custom learning companions tailored to specific subjects, teaching styles, and personalities for an interactive educational experience through natural voice conversations.
 
-![Hero Image](/public/readme/hero.png)
-
 ## ✨ Features
 
 - **Custom Learning Companions**: Create personalized teaching companions for various subjects including Mathematics, Science, Coding, Language, History, and Economics.
