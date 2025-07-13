@@ -130,12 +130,6 @@ The application uses Supabase with the following main tables:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Contributors
-
-- [Your Name](https://github.com/yourusername) - Lead Developer
-- [Contributor Name](https://github.com/username) - Frontend Developer
-- [Contributor Name](https://github.com/username) - Backend Developer
-
 ## 🙏 Acknowledgements
 
 - [Next.js](https://nextjs.org) - The React Framework
